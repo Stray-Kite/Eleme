@@ -66,7 +66,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 项目路由
 
->       <img src="https://github.com/Stray-Kite/Eleme/blob/master/media/00.png" height="300px" width="400px" />
+> <img src="https://github.com/Stray-Kite/Eleme/blob/master/media/00.png" height="300px" width="400px" />
 
 ## 项目组件
 
