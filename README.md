@@ -62,7 +62,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 > 左图是整个项目的目录，右图是项目中src的目录
 >
-> <img src="https://github.com/Stray-Kite/Eleme/blob/master/media/01.png" width="200px" height="400px" /><img src="./media/02.png" width="200px" height="400px" />
+> <img src="https://github.com/Stray-Kite/Eleme/blob/master/media/01.png" width="200px" height="400px" />&nbsp;&nbsp;<img src="./media/02.png" width="200px" height="400px" />
 
 ## 项目路由
 
@@ -100,7 +100,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 > 剩下的src/components/goods、src/components/ratings以及src/components/seller分别如下图所示：
 >
-> <img src="./media/10.png" width="200px" height="350px" />&nbsp;<img src="./media/11.png" width="200px" height="350px" />&nbsp;<img src="./media/12.png" width="200px" height="350px" />
+> <img src="./media/10.png" width="200px" height="350px" />&nbsp;<img src="./media/11.png" width="200px" height="350px" />&nbsp;&nbsp;<img src="./media/12.png" width="200px" height="350px" />
 
 ## 后台数据
 
