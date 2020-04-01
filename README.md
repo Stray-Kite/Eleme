@@ -100,7 +100,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 > 剩下的src/components/goods、src/components/ratings以及src/components/seller分别如下图所示：
 >
-> <img src="./media/10.png" width="200px" height="400px" /><img src="./media/11.png" width="200px" /><img src="./media/12.png" width="200px"/>
+> <img src="./media/10.png" width="200px" height="350px" /><img src="./media/11.png" width="200px" /><img src="./media/12.png" width="200px"/>
 
 ## 后台数据
 
